@@ -51,7 +51,7 @@ You can see the live demo of the app [here](https://bentekku.github.io/to-do-rea
    npm start
    ```
 
-2. The above npm command should automatically open your default browser and will be navigated to `http://localhost:3000`. Incase it does happen for you, open your browser and navigate to `http://localhost:3000` to see the app in action.
+2. The above npm command should automatically open your default browser and will be navigated to `http://localhost:3000`. Incase, if the browser does not open and navigate to localhost automatically, do so manually by opneing your browser and navigate to `http://localhost:3000` to see the app in action.
 
 3. Add tasks by typing in the input field and hitting the "Add" button.
 
